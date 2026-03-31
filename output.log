@@ -1,0 +1,445 @@
+nohup: ignoring input
+  westerncape: 28 clubs
+  gauteng: 66 clubs
+  kwazulu-natal: 16 clubs
+  easterncape: 5 clubs
+  freestate: 3 clubs
+  mpumalanga: 3 clubs
+  limpopo: 2 clubs
+  northwest: 2 clubs
+  northerncape: 1 clubs
+  namibia: 2 clubs
+  botswana: 1 clubs
+Found 129 clubs across 11 regions
+
+--- Region: Western Cape (westerncape) ---
+Scraping Athlone (athlone)...
+    7 experts listed at Athlone
+    Extracted 7 profiles from Athlone
+Scraping Brackenfell (brackenfell)...
+    7 experts listed at Brackenfell
+    Extracted 7 profiles from Brackenfell
+Scraping Cape Town Foreshore (cape-town-foreshore)...
+    13 experts listed at Cape Town Foreshore
+    Extracted 13 profiles from Cape Town Foreshore
+Scraping CapeGate (capegate)...
+    10 experts listed at CapeGate
+    Extracted 10 profiles from CapeGate
+Scraping Century City (century-city)...
+    Failed on Century City: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("#find-expert")
+
+Scraping Claremont (claremont)...
+    27 experts listed at Claremont
+    Extracted 27 profiles from Claremont
+Scraping Constantia (constantia)...
+    23 experts listed at Constantia
+    Extracted 23 profiles from Constantia
+Scraping Durbanville (durbanville)...
+    12 experts listed at Durbanville
+    Extracted 12 profiles from Durbanville
+Scraping George (george)...
+    7 experts listed at George
+    Extracted 7 profiles from George
+Scraping Kenilworth (kenilworth)...
+    10 experts listed at Kenilworth
+    Extracted 10 profiles from Kenilworth
+Scraping Mitchells Plain (mitchells-plain)...
+    5 experts listed at Mitchells Plain
+    Extracted 5 profiles from Mitchells Plain
+Scraping N1 City (n1-city)...
+    8 experts listed at N1 City
+    Extracted 8 profiles from N1 City
+Scraping National Head Office (national-head-office)...
+    1 experts listed at National Head Office
+    Extracted 1 profiles from National Head Office
+Scraping Okavango (okavango)...
+    4 experts listed at Okavango
+    Extracted 4 profiles from Okavango
+Scraping Paarl (paarl)...
+    19 experts listed at Paarl
+    Extracted 19 profiles from Paarl
+Scraping Parklands (parklands)...
+    5 experts listed at Parklands
+    Extracted 5 profiles from Parklands
+Scraping Point (point)...
+    21 experts listed at Point
+    Extracted 21 profiles from Point
+Scraping Silo District (silo-district)...
+    15 experts listed at Silo District
+    Extracted 15 profiles from Silo District
+Scraping Steenberg (steenberg)...
+    14 experts listed at Steenberg
+    Extracted 14 profiles from Steenberg
+Scraping Stellenbosch (stellenbosch)...
+    12 experts listed at Stellenbosch
+    Extracted 12 profiles from Stellenbosch
+Scraping Sun Valley (sun-valley)...
+    14 experts listed at Sun Valley
+    Extracted 14 profiles from Sun Valley
+Scraping Sunningdale (sunningdale)...
+    12 experts listed at Sunningdale
+    Extracted 12 profiles from Sunningdale
+Scraping Table Bay Mall (table-bay-mall)...
+    7 experts listed at Table Bay Mall
+    Extracted 7 profiles from Table Bay Mall
+Scraping Table View (table-view)...
+    13 experts listed at Table View
+    Extracted 13 profiles from Table View
+Scraping The Sanctuary (the-sanctuary)...
+    18 experts listed at The Sanctuary
+    Extracted 18 profiles from The Sanctuary
+Scraping Tygervalley (tygervalley)...
+    17 experts listed at Tygervalley
+    Extracted 17 profiles from Tygervalley
+Scraping Waterstone Village (waterstone-village)...
+    18 experts listed at Waterstone Village
+    Extracted 18 profiles from Waterstone Village
+Scraping Wembley Square (wembley-square)...
+    26 experts listed at Wembley Square
+    Extracted 26 profiles from Wembley Square
+
+--- Region: Gauteng (gauteng) ---
+Scraping Alice Lane (alice-lane)...
+    13 experts listed at Alice Lane
+    Extracted 13 profiles from Alice Lane
+Scraping Balfour Park (balfour-park)...
+    4 experts listed at Balfour Park
+    Extracted 4 profiles from Balfour Park
+Scraping Bedfordview (bedfordview)...
+    17 experts listed at Bedfordview
+    Extracted 17 profiles from Bedfordview
+Scraping Bel Air (bel-air)...
+    13 experts listed at Bel Air
+    Extracted 13 profiles from Bel Air
+Scraping Boksburg (boksburg)...
+    3 experts listed at Boksburg
+    Extracted 3 profiles from Boksburg
+Scraping Boksburg K90 (boksburg-k90)...
+    11 experts listed at Boksburg K90
+    Extracted 11 profiles from Boksburg K90
+Scraping Braamfontein (braamfontein)...
+    1 experts listed at Braamfontein
+    Extracted 1 profiles from Braamfontein
+Scraping Broadacres (broadacres)...
+    10 experts listed at Broadacres
+    Extracted 10 profiles from Broadacres
+Scraping Bryan Park (bryan-park)...
+    6 experts listed at Bryan Park
+    Extracted 6 profiles from Bryan Park
+Scraping Bryanston (bryanston)...
+    25 experts listed at Bryanston
+    Extracted 25 profiles from Bryanston
+Scraping Carlswald (carlswald)...
+    7 experts listed at Carlswald
+    Extracted 7 profiles from Carlswald
+Scraping Cedar Square (cedar-square)...
+    15 experts listed at Cedar Square
+    Extracted 15 profiles from Cedar Square
+Scraping Centurion (centurion)...
+    15 experts listed at Centurion
+    Extracted 15 profiles from Centurion
+Scraping Cradlestone (cradlestone)...
+    7 experts listed at Cradlestone
+    Extracted 7 profiles from Cradlestone
+Scraping Cresta (cresta)...
+    11 experts listed at Cresta
+    Extracted 11 profiles from Cresta
+Scraping Dainfern (dainfern)...
+    18 experts listed at Dainfern
+    Extracted 18 profiles from Dainfern
+Scraping Eastgate (eastgate)...
+    6 experts listed at Eastgate
+    Extracted 6 profiles from Eastgate
+Scraping Eco Park (eco-park)...
+    10 experts listed at Eco Park
+    Extracted 10 profiles from Eco Park
+Scraping Edenglen (edenglen)...
+    7 experts listed at Edenglen
+    Extracted 7 profiles from Edenglen
+Scraping Faerie Glen (faerie-glen)...
+    5 experts listed at Faerie Glen
+    Extracted 5 profiles from Faerie Glen
+Scraping Glen Acres (glen-acres)...
+    12 experts listed at Glen Acres
+    Extracted 12 profiles from Glen Acres
+Scraping Glenvista (glenvista)...
+    13 experts listed at Glenvista
+    Extracted 13 profiles from Glenvista
+Scraping Greenstone Park (greenstone-park)...
+    14 experts listed at Greenstone Park
+    Extracted 14 profiles from Greenstone Park
+Scraping Groenkloof (groenkloof)...
+    21 experts listed at Groenkloof
+    Extracted 21 profiles from Groenkloof
+Scraping Hatfield (hatfield)...
+    3 experts listed at Hatfield
+    Extracted 3 profiles from Hatfield
+Scraping Hazeldean (hazeldean)...
+    15 experts listed at Hazeldean
+    Extracted 15 profiles from Hazeldean
+Scraping Hennopspark (hennopspark)...
+    4 experts listed at Hennopspark
+    Extracted 4 profiles from Hennopspark
+Scraping Honeydew (honeydew)...
+    10 experts listed at Honeydew
+    Extracted 10 profiles from Honeydew
+Scraping Horizon View (horizon-view)...
+    4 experts listed at Horizon View
+    Extracted 4 profiles from Horizon View
+Scraping Klerksdorp (klerksdorp)...
+    5 experts listed at Klerksdorp
+    Extracted 5 profiles from Klerksdorp
+Scraping Krugersdorp (krugersdorp)...
+    5 experts listed at Krugersdorp
+    Extracted 5 profiles from Krugersdorp
+Scraping Kyalami Corner (kyalami-corner)...
+    17 experts listed at Kyalami Corner
+    Extracted 17 profiles from Kyalami Corner
+Scraping Lenasia (lenasia)...
+    10 experts listed at Lenasia
+    Extracted 10 profiles from Lenasia
+Scraping Little Falls (little-falls)...
+    14 experts listed at Little Falls
+    Extracted 14 profiles from Little Falls
+Scraping Little Falls Retail Crossing (little-falls-retail-crossing)...
+    5 experts listed at Little Falls Retail Crossing
+    Extracted 5 profiles from Little Falls Retail Crossing
+Scraping Loftus (loftus)...
+    11 experts listed at Loftus
+    Extracted 11 profiles from Loftus
+Scraping Lonehill (lonehill)...
+    11 experts listed at Lonehill
+    Extracted 11 profiles from Lonehill
+Scraping Melrose Arch (melrose-arch)...
+    16 experts listed at Melrose Arch
+    Extracted 16 profiles from Melrose Arch
+Scraping Menlyn (menlyn)...
+    11 experts listed at Menlyn
+    Extracted 11 profiles from Menlyn
+Scraping Menlyn Maine (menlyn-maine)...
+    11 experts listed at Menlyn Maine
+    Extracted 11 profiles from Menlyn Maine
+Scraping Meyersdal (meyersdal)...
+    17 experts listed at Meyersdal
+    Extracted 17 profiles from Meyersdal
+Scraping Milpark (milpark)...
+    9 experts listed at Milpark
+    Extracted 9 profiles from Milpark
+Scraping Montana (montana)...
+    6 experts listed at Montana
+    Extracted 6 profiles from Montana
+Scraping Moreleta Park (moreleta-park)...
+    10 experts listed at Moreleta Park
+    Extracted 10 profiles from Moreleta Park
+Scraping Morningside (morningside)...
+    No experts found at Morningside
+    Extracted 0 profiles from Morningside
+Scraping New Market (new-market)...
+    9 experts listed at New Market
+    Retry 1/2 for f0c2608b-6ea7-11ef-80b1-0cc47a9f4eaf
+    Retry 2/2 for f0c2608b-6ea7-11ef-80b1-0cc47a9f4eaf
+    Extracted 9 profiles from New Market
+Scraping Northgate (northgate)...
+    7 experts listed at Northgate
+    Extracted 7 profiles from Northgate
+Scraping Old Eds (old-eds)...
+    19 experts listed at Old Eds
+    Extracted 19 profiles from Old Eds
+Scraping Randburg (randburg)...
+    23 experts listed at Randburg
+    Extracted 23 profiles from Randburg
+Scraping Roodepoort (roodepoort)...
+    14 experts listed at Roodepoort
+    Extracted 14 profiles from Roodepoort
+Scraping Rooihuiskraal (rooihuiskraal)...
+    19 experts listed at Rooihuiskraal
+    Extracted 19 profiles from Rooihuiskraal
+Scraping Rosebank (rosebank)...
+    18 experts listed at Rosebank
+    Extracted 18 profiles from Rosebank
+Scraping Sammy Marks Square (sammy-marks-square)...
+    2 experts listed at Sammy Marks Square
+    Extracted 2 profiles from Sammy Marks Square
+Scraping Sandton (sandton)...
+    12 experts listed at Sandton
+    Extracted 12 profiles from Sandton
+Scraping Sandton CBD (sandton-cbd)...
+    7 experts listed at Sandton CBD
+    Extracted 7 profiles from Sandton CBD
+Scraping Sunninghill (sunninghill)...
+    14 experts listed at Sunninghill
+    Extracted 14 profiles from Sunninghill
+Scraping Sunward Park (sunward-park)...
+    14 experts listed at Sunward Park
+    Extracted 14 profiles from Sunward Park
+Scraping Tramshed (tramshed)...
+    4 experts listed at Tramshed
+    Extracted 4 profiles from Tramshed
+Scraping Vanderbijl Park (vanderbijl-park)...
+    13 experts listed at Vanderbijl Park
+    Extracted 13 profiles from Vanderbijl Park
+Scraping Vereeniging (vereeniging)...
+    11 experts listed at Vereeniging
+    Extracted 11 profiles from Vereeniging
+Scraping Victory Park (victory-park)...
+    16 experts listed at Victory Park
+    Extracted 16 profiles from Victory Park
+Scraping Vodaworld (vodaworld)...
+    10 experts listed at Vodaworld
+    Extracted 10 profiles from Vodaworld
+Scraping Waterfall (waterfall)...
+    22 experts listed at Waterfall
+    Extracted 22 profiles from Waterfall
+Scraping Watermeyer Park (watermeyer-park)...
+    6 experts listed at Watermeyer Park
+    Extracted 6 profiles from Watermeyer Park
+Scraping Wonderboom (wonderboom)...
+    5 experts listed at Wonderboom
+    Extracted 5 profiles from Wonderboom
+Scraping Wonderpark (wonderpark)...
+    12 experts listed at Wonderpark
+    Extracted 12 profiles from Wonderpark
+
+--- Region: Kwazulu-Natal (kwazulu-natal) ---
+Scraping Amanzimtoti (amanzimtoti)...
+    10 experts listed at Amanzimtoti
+    Extracted 10 profiles from Amanzimtoti
+Scraping Ballito (ballito)...
+    16 experts listed at Ballito
+    Extracted 16 profiles from Ballito
+Scraping Bluff (bluff)...
+    8 experts listed at Bluff
+    Extracted 8 profiles from Bluff
+Scraping Cascades (cascades)...
+    15 experts listed at Cascades
+    Extracted 15 profiles from Cascades
+Scraping Cornubia (cornubia)...
+    7 experts listed at Cornubia
+    Extracted 7 profiles from Cornubia
+Scraping Gateway (gateway)...
+    12 experts listed at Gateway
+    Extracted 12 profiles from Gateway
+Scraping Hillcrest (hillcrest)...
+    12 experts listed at Hillcrest
+    Extracted 12 profiles from Hillcrest
+Scraping Kings Park (kings-park)...
+    8 experts listed at Kings Park
+    Extracted 8 profiles from Kings Park
+Scraping Kloof (kloof)...
+    11 experts listed at Kloof
+    Extracted 11 profiles from Kloof
+Scraping La Lucia (la-lucia)...
+    18 experts listed at La Lucia
+    Extracted 18 profiles from La Lucia
+Scraping Moses Mabhida (moses-mabhida)...
+    9 experts listed at Moses Mabhida
+    Extracted 9 profiles from Moses Mabhida
+Scraping Pavilion (pavilion)...
+    Failed on Pavilion: Page.goto: net::ERR_TOO_MANY_REDIRECTS at https://experts.virginactive.co.za/web
+Call log:
+  - navigating to "https://experts.virginactive.co.za/web", waiting until "networkidle"
+
+Scraping Pietermaritzburg (pietermaritzburg)...
+    Failed on Pietermaritzburg: Page.goto: net::ERR_TOO_MANY_REDIRECTS at https://experts.virginactive.co.za/web
+Call log:
+  - navigating to "https://experts.virginactive.co.za/web", waiting until "networkidle"
+
+Scraping Richards Bay (richards-bay)...
+    Failed on Richards Bay: Page.goto: net::ERR_TOO_MANY_REDIRECTS at https://experts.virginactive.co.za/web
+Call log:
+  - navigating to "https://experts.virginactive.co.za/web", waiting until "networkidle"
+
+Scraping The Atrium (the-atrium)...
+    Failed on The Atrium: Page.goto: net::ERR_TOO_MANY_REDIRECTS at https://experts.virginactive.co.za/web
+Call log:
+  - navigating to "https://experts.virginactive.co.za/web", waiting until "networkidle"
+
+Scraping Westville (westville)...
+    Failed on Westville: Page.goto: net::ERR_TOO_MANY_REDIRECTS at https://experts.virginactive.co.za/web
+Call log:
+  - navigating to "https://experts.virginactive.co.za/web", waiting until "networkidle"
+
+
+--- Region: Eastern Cape (easterncape) ---
+Scraping Beacon Bay (beacon-bay)...
+    Failed on Beacon Bay: Page.goto: net::ERR_TOO_MANY_REDIRECTS at https://experts.virginactive.co.za/web
+Call log:
+  - navigating to "https://experts.virginactive.co.za/web", waiting until "networkidle"
+
+Scraping East London (east-london)...
+    Failed on East London: Page.goto: net::ERR_TOO_MANY_REDIRECTS at https://experts.virginactive.co.za/web
+Call log:
+  - navigating to "https://experts.virginactive.co.za/web", waiting until "networkidle"
+
+Scraping Greenacres (greenacres)...
+    Failed on Greenacres: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("#find-expert")
+
+Scraping Humewood (humewood)...
+    12 experts listed at Humewood
+    Extracted 12 profiles from Humewood
+Scraping Lorraine (lorraine)...
+    13 experts listed at Lorraine
+    Extracted 13 profiles from Lorraine
+
+--- Region: Free State (freestate) ---
+Scraping Fichardt Park (fichardt-park)...
+    9 experts listed at Fichardt Park
+    Extracted 9 profiles from Fichardt Park
+Scraping Northridge Mall (northridge-mall)...
+    12 experts listed at Northridge Mall
+    Extracted 12 profiles from Northridge Mall
+Scraping Welkom (welkom)...
+    5 experts listed at Welkom
+    Extracted 5 profiles from Welkom
+
+--- Region: Mpumalanga (mpumalanga) ---
+Scraping Middelburg (middelburg)...
+    3 experts listed at Middelburg
+    Extracted 3 profiles from Middelburg
+Scraping Nelspruit (nelspruit)...
+    7 experts listed at Nelspruit
+    Extracted 7 profiles from Nelspruit
+Scraping Riverside (riverside)...
+    No experts found at Riverside
+    Extracted 0 profiles from Riverside
+
+--- Region: Limpopo (limpopo) ---
+Scraping Polokwane (polokwane)...
+    6 experts listed at Polokwane
+    Extracted 6 profiles from Polokwane
+Scraping Thornhill (thornhill)...
+    8 experts listed at Thornhill
+    Extracted 8 profiles from Thornhill
+
+--- Region: North West (northwest) ---
+Scraping Potchefstroom (potchefstroom)...
+    4 experts listed at Potchefstroom
+    Extracted 4 profiles from Potchefstroom
+Scraping Rustenburg (rustenburg)...
+    10 experts listed at Rustenburg
+    Extracted 10 profiles from Rustenburg
+
+--- Region: Northern Cape (northerncape) ---
+Scraping Kimberley (kimberley)...
+    12 experts listed at Kimberley
+    Extracted 12 profiles from Kimberley
+
+--- Region: Namibia (namibia) ---
+Scraping Kleine Kuppe (kleine-kuppe)...
+    8 experts listed at Kleine Kuppe
+    Extracted 8 profiles from Kleine Kuppe
+Scraping Maerua Mall (maerua-mall)...
+    5 experts listed at Maerua Mall
+    Extracted 5 profiles from Maerua Mall
+
+--- Region: Botswana (botswana) ---
+Scraping Airport Junction (airport-junction)...
+    19 experts listed at Airport Junction
+    Extracted 19 profiles from Airport Junction
+
+Total: 1319 unique profiles across all regions
+Scraped 1319 profiles

@@ -11,8 +11,8 @@ class Settings(BaseSettings):
     # LLM
     anthropic_api_key: str
 
-    # Postgres (used by LangGraph checkpointer & lead storage)
-    database_url: str
+    # Postgres
+    database_url: str = "postgresql+asyncpg://outreach:outreach_dev@localhost:5432/outreach"
 
     # Telegram notifications
     telegram_bot_token: str = ""

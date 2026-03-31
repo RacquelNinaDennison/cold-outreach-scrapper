@@ -10,7 +10,8 @@ description: >
 
 # Virgin Active PT Scraper
 
-Scrapes PT profiles from `https://experts.virginactive.co.za/web` using Playwright.
+Scrapes PT profiles from `https://experts.virginactive.co.za/web` using Playwright. The user will define a location as to where you need to filter by and then you will have to get the names of the PTs from all the clubs within the location area. 
+The best approach would be to define a list of all the clubs within a location area and then step through each club in the list, scrapping the details of each PT at that club. 
 
 ---
 
@@ -20,7 +21,7 @@ Scrapes PT profiles from `https://experts.virginactive.co.za/web` using Playwrig
 1. GET https://experts.virginactive.co.za/web
 2. Click button#find-expert  ("Help me find an expert")
 3. Select "Personal Trainer" → click Next
-4. Filter by province + club → click Next
+4. When given a location, find all the clubs within that location then filter by those clubs.
 5. Paginate through PT listing cards
 6. For each card: click → scrape detail page → go back
 ```

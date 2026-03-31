@@ -1,0 +1,142 @@
+[
+  {
+    "id": "athlone",
+    "name": "Athlone",
+    "location": "Cape Town"
+  },
+  {
+    "id": "brackenfell",
+    "name": "Brackenfell",
+    "location": "Cape Town"
+  },
+  {
+    "id": "cape-town-foreshore",
+    "name": "Cape Town Foreshore",
+    "location": "Cape Town"
+  },
+  {
+    "id": "capegate",
+    "name": "CapeGate",
+    "location": "Cape Town"
+  },
+  {
+    "id": "century-city",
+    "name": "Century City",
+    "location": "Cape Town"
+  },
+  {
+    "id": "claremont",
+    "name": "Claremont",
+    "location": "Cape Town"
+  },
+  {
+    "id": "constantia",
+    "name": "Constantia",
+    "location": "Cape Town"
+  },
+  {
+    "id": "durbanville",
+    "name": "Durbanville",
+    "location": "Cape Town"
+  },
+  {
+    "id": "george",
+    "name": "George",
+    "location": "Cape Town"
+  },
+  {
+    "id": "kenilworth",
+    "name": "Kenilworth",
+    "location": "Cape Town"
+  },
+  {
+    "id": "mitchells-plain",
+    "name": "Mitchells Plain",
+    "location": "Cape Town"
+  },
+  {
+    "id": "n1-city",
+    "name": "N1 City",
+    "location": "Cape Town"
+  },
+  {
+    "id": "national-head-office",
+    "name": "National Head Office",
+    "location": "Cape Town"
+  },
+  {
+    "id": "okavango",
+    "name": "Okavango",
+    "location": "Cape Town"
+  },
+  {
+    "id": "paarl",
+    "name": "Paarl",
+    "location": "Cape Town"
+  },
+  {
+    "id": "parklands",
+    "name": "Parklands",
+    "location": "Cape Town"
+  },
+  {
+    "id": "point",
+    "name": "Point",
+    "location": "Cape Town"
+  },
+  {
+    "id": "silo-district",
+    "name": "Silo District",
+    "location": "Cape Town"
+  },
+  {
+    "id": "steenberg",
+    "name": "Steenberg",
+    "location": "Cape Town"
+  },
+  {
+    "id": "stellenbosch",
+    "name": "Stellenbosch",
+    "location": "Cape Town"
+  },
+  {
+    "id": "sun-valley",
+    "name": "Sun Valley",
+    "location": "Cape Town"
+  },
+  {
+    "id": "sunningdale",
+    "name": "Sunningdale",
+    "location": "Cape Town"
+  },
+  {
+    "id": "table-bay-mall",
+    "name": "Table Bay Mall",
+    "location": "Cape Town"
+  },
+  {
+    "id": "table-view",
+    "name": "Table View",
+    "location": "Cape Town"
+  },
+  {
+    "id": "the-sanctuary",
+    "name": "The Sanctuary",
+    "location": "Cape Town"
+  },
+  {
+    "id": "tygervalley",
+    "name": "Tygervalley",
+    "location": "Cape Town"
+  },
+  {
+    "id": "waterstone-village",
+    "name": "Waterstone Village",
+    "location": "Cape Town"
+  },
+  {
+    "id": "wembley-square",
+    "name": "Wembley Square",
+    "location": "Cape Town"
+  }
+]
